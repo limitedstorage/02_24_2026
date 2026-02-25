@@ -14,7 +14,7 @@ export default function NavBar() {
         {/* Logo / Brand */}
         <div className="flex items-center gap-2">
           <Link to="/" className="text-xl font-black tracking-tighter uppercase italic">
-            Dawg Dev Hub
+            Dawg Dev Hub is Dawg Dev Hub
           </Link>
         </div>
 
