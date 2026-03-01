@@ -1,0 +1,8 @@
+.follower p {
+  display: inline-block;
+}
+
+.follower img {
+  display: inline-block;
+  width: 100px;
+}
